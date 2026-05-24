@@ -1,0 +1,5 @@
+Portfolio Summary
+AAPL = 540
+TSLA = 500
+
+Total Investment = 1040
